@@ -1,0 +1,37 @@
+.articulo {
+  background: white;
+  width: 500px;
+  padding: 20px;
+}
+
+.articulo .titulo {
+  color: #0078af;
+}
+
+.articulo .autor {
+  color: #ad137f;
+}
+
+.articulo div {
+  text-align: center;
+}
+
+.articulo div a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #0078af;
+}
+
+.articulo div a:hover {
+  text-decoration: underline;
+}
+
+.articulo p {
+  color: #464646;
+}
+
+body {
+  background: #1b3d82;
+  font-family: Arial;
+}
+/*# sourceMappingURL=estilos.css.map */
